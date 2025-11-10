@@ -11,5 +11,6 @@
  />
 
         </Frame>
+<Button Margin="10" Text="Voltar" Clicked="Button_Clicked"/>
     </VerticalStackLayout>
 </ContentPage>
